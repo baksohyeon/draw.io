@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T07:30:42.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="Kiab1Z36iBybsVUZsb0n" version="20.8.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-20T12:01:43.063Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.41" etag="OkhkR2bZaQhfuKrngScj" version="20.8.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="2463" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="2198" dy="1349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -218,7 +218,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="h-a_2QebbPacF_lJ6_ek-195" value="house_chores_id int NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" parent="h-a_2QebbPacF_lJ6_ek-193" vertex="1">
+        <mxCell id="h-a_2QebbPacF_lJ6_ek-195" value="housework_id int NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=0;overflow=hidden;" parent="h-a_2QebbPacF_lJ6_ek-193" vertex="1">
           <mxGeometry x="30" width="260" height="30" as="geometry">
             <mxRectangle width="260" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -812,6 +812,9 @@
               <mxPoint x="1230" y="716" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gaDjwp0x5ZEuvqYpTMmN-6" value="TODO: 생성한 사람이 누군지 아는 기능 추가하기" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="780" width="245" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
