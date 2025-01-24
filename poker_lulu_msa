@@ -4279,7 +4279,7 @@
         <mxCell id="577uNVCEU0D2WIS48hj9-7" value="Center Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1383" y="160" width="610" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-8" value="Web Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-8" value="Web Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1227" y="-196" width="627" height="104" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-12" value="Web Frontend" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
