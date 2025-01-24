@@ -2987,7 +2987,7 @@
           <mxGeometry x="68.08288626481655" y="164.0453963687151" width="108.50028761061947" height="91.84223463687151" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-41" value="Rollback Matching" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-38">
-          <mxGeometry x="265.6784302330276" y="164.0453963687151" width="140.45585176991148" height="91.84223463687151" as="geometry" />
+          <mxGeometry x="432.6284302330276" y="174.0553963687151" width="140.45585176991148" height="91.84223463687151" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-42" value="Create Game" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-38">
           <mxGeometry x="445.62919430975876" y="44.0457688081937" width="114.44550884955751" height="91.84223463687151" as="geometry" />
