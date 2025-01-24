@@ -3792,7 +3792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CWIcotZvYRhWWLzUtkwb" name="Page-6">
-    <mxGraphModel dx="2362" dy="-1588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2874" dy="-1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3880,27 +3880,13 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-28" value="Matching System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=none;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
           <mxGeometry x="1386.18" y="472.82" width="1003.82" height="423.5" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-29" value="Database Operations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=none;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-28">
-          <mxGeometry x="256.09179285168835" y="73.13" width="575.8910348103034" height="304.44" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-30" value="Get Standing Users" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-29">
-          <mxGeometry x="42.75145960821553" y="28.915815766604613" width="124.22428295133756" height="91.8422346368715" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-31" value="Register&#xa;Users" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-29">
-          <mxGeometry x="58.36222119932331" y="164.04539636871507" width="93.0089503122835" height="91.8422346368715" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-32" value="Rollback Matching" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-29">
-          <mxGeometry x="370.8590738084508" y="174.05539636871507" width="120.40199732206563" height="91.8422346368715" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-33" value="Create Game" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-29">
-          <mxGeometry x="382.0036287830319" y="44.04576880819369" width="98.10533115131274" height="91.8422346368715" as="geometry" />
-        </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-34" value="Matching Logic" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-28">
           <mxGeometry x="45.84374803149607" y="180.285140562249" width="131.207968503937" height="91.8433734939759" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="qsN5gETOw5JFKb_bYwwQ-28" source="qsN5gETOw5JFKb_bYwwQ-34" target="qsN5gETOw5JFKb_bYwwQ-29">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="qsN5gETOw5JFKb_bYwwQ-28" source="qsN5gETOw5JFKb_bYwwQ-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="256.0917928516885" y="225.35000000000036" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-36" value="Game Server WebSocket Interface" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
