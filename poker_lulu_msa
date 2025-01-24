@@ -3792,7 +3792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CWIcotZvYRhWWLzUtkwb" name="Page-6">
-    <mxGraphModel dx="6007" dy="1831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3020" dy="-98" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4238,21 +4238,6 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-153" value="Game Logic" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2100" y="2580" width="503.75" height="186" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-154" value="API Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3620" y="2827.5" width="440" height="222.5" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-155" value="Event Handler" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3612" y="2440" width="448" height="290" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-156" value="Center Server Client" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-155">
-          <mxGeometry x="73.33807829181492" y="54.69298245614035" width="328.4270462633451" height="68.68421052631578" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-157" value="Event Handlers" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-155">
-          <mxGeometry x="103.62989323843415" y="186.9736842105263" width="267.84341637010675" height="68.68421052631578" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-158" value="WebSocket Controller" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3655" y="2852.5" width="355" height="147.5" as="geometry" />
-        </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-163" value="Player Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2330" y="3080" width="161" height="54" as="geometry" />
         </mxCell>
@@ -4282,11 +4267,6 @@
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-172" value="Tournament Repository" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="3150" y="3600" width="225" height="54" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-183" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;" edge="1" parent="1" source="qsN5gETOw5JFKb_bYwwQ-155" target="qsN5gETOw5JFKb_bYwwQ-154">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-200" value="Game Modes" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2235.75" y="2648" width="232.25" height="83" as="geometry" />
