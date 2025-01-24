@@ -3792,7 +3792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CWIcotZvYRhWWLzUtkwb" name="Page-6">
-    <mxGraphModel dx="2985" dy="-1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3385" dy="-1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4236,10 +4236,10 @@
           <mxGeometry x="2170" y="5340" width="503.75" height="186" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-154" value="API Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3607.75" y="5638" width="285" height="104" as="geometry" />
+          <mxGeometry x="3680" y="5478" width="285" height="104" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-155" value="External Systems" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3609.75" y="5360" width="281" height="228" as="geometry" />
+          <mxGeometry x="3682" y="5200" width="281" height="228" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-156" value="Center Server Client" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-155">
           <mxGeometry x="46" y="43" width="206" height="54" as="geometry" />
@@ -4248,7 +4248,7 @@
           <mxGeometry x="65" y="147" width="168" height="54" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-158" value="WebSocket Controller" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3642.75" y="5663" width="215" height="54" as="geometry" />
+          <mxGeometry x="3715" y="5503" width="215" height="54" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-163" value="Player Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2400" y="5840" width="161" height="54" as="geometry" />
@@ -4289,6 +4289,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-197" value="Client Socket" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3692" y="5666" width="281" height="228" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
