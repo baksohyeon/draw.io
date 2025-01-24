@@ -3792,7 +3792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CWIcotZvYRhWWLzUtkwb" name="Page-6">
-    <mxGraphModel dx="2874" dy="-1338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3705" dy="-671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3841,26 +3841,14 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-15" value="CENTER SERVER" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-60" y="3910" width="2740" height="1080" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-28" value="Matching System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=none;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
-          <mxGeometry x="1386.18" y="472.82" width="1003.82" height="423.5" as="geometry" />
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-17" value="Connection Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=#f5f5f5;align=center;verticalAlign=top;spacingLeft=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
+          <mxGeometry x="376.86" y="509.14285714285717" width="602.28" height="521.5319999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-28" value="Matching System" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;fontSize=24;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
+          <mxGeometry x="1550" y="408.19" width="306" height="161.81" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-16" value="Socket Control Layer" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;align=center;verticalAlign=top;dashed=1;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
           <mxGeometry x="403" y="586.2857142857143" width="557" height="416.5714285714286" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-17" value="Connection Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=none;align=left;verticalAlign=top;spacingLeft=1;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
-          <mxGeometry x="376.86" y="509.14285714285717" width="602.28" height="521.5319999999999" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-18" value="Message Processing" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
-          <mxGeometry x="44.88380952380952" y="401.38582677165357" width="296.4419047619047" height="564.6614173228347" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-19" value="Message Receiver" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-18">
-          <mxGeometry x="60.54095238095237" y="73.13385826771655" width="192.06095238095233" height="91.84251968503938" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-20" value="JSON Parser" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-18">
-          <mxGeometry x="81.41714285714285" y="250.01574803149612" width="151.35238095238094" height="91.84251968503938" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-21" value="Packet Handler" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-18">
-          <mxGeometry x="68.89142857142856" y="426.89763779527567" width="176.4038095238095" height="91.84251968503938" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-22" value="Server Manager&#xa;        Singleton Instance" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
           <mxGeometry x="1230" y="85" width="310" height="193.18" as="geometry" />
@@ -3868,8 +3856,8 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-23" value="Game Server Socket Map" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
           <mxGeometry x="447.7942857142857" y="637.7952755905512" width="247.38285714285712" height="91.84251968503938" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-24" value="Game Management" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=none;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
-          <mxGeometry x="1016.670476190476" y="408.18897637795277" width="317.3180952380952" height="551.0551181102362" as="geometry" />
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-24" value="Game Management" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=24;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
+          <mxGeometry x="1160.000476190476" y="408.18897637795277" width="317.3180952380952" height="551.0551181102362" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-25" value="Game Server List" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-24">
           <mxGeometry x="72.02285714285713" y="73.13385826771653" width="189.97333333333333" height="91.84251968503936" as="geometry" />
@@ -3889,8 +3877,8 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-38" value="" style="startArrow=none;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="qsN5gETOw5JFKb_bYwwQ-15" source="qsN5gETOw5JFKb_bYwwQ-22" target="qsN5gETOw5JFKb_bYwwQ-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1002.0571428571427" y="207.49606299212599" />
-              <mxPoint x="1002.0571428571427" y="554.456692913386" />
+              <mxPoint x="1060" y="207" />
+              <mxPoint x="1060" y="554" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3902,13 +3890,10 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-40" value="" style="startArrow=none;endArrow=block;exitX=1;exitY=0.61;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;elbow=vertical;" edge="1" parent="qsN5gETOw5JFKb_bYwwQ-15" source="qsN5gETOw5JFKb_bYwwQ-22" target="qsN5gETOw5JFKb_bYwwQ-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-41" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.5;entryX=1;entryY=0.25;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="qsN5gETOw5JFKb_bYwwQ-15" source="qsN5gETOw5JFKb_bYwwQ-17" target="qsN5gETOw5JFKb_bYwwQ-18">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-42" value="Event Broker Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
+          <mxGeometry x="1550" y="610" width="310" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-42" value="Event Broker Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
-          <mxGeometry x="89.10000000000002" y="262.2857142857143" width="208" height="83.31428571428572" as="geometry" />
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-43" value="Game Service Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=none;align=left;verticalAlign=top;spacingLeft=1;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-43" value="Game Service Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fillColor=#f5f5f5;align=center;verticalAlign=top;spacingLeft=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
           <mxGeometry x="360" y="70" width="619.14" height="390" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-44" value="Service Control Layer" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;align=center;verticalAlign=top;dashed=1;fontSize=18;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-15">
