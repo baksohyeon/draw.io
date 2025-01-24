@@ -4290,8 +4290,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-197" value="Client Socket" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;fontSize=32;" vertex="1" parent="1">
-          <mxGeometry x="3750" y="5752" width="281" height="84" as="geometry" />
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-197" value="Client Socket" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="3680" y="5658" width="281" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
