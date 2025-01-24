@@ -4251,7 +4251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b2Xik6lrETev5LNXewmS" name="Page-7">
-    <mxGraphModel dx="3860" dy="2836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2264" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4262,10 +4262,10 @@
           <mxGeometry x="1222" y="686" width="1155" height="284" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-3" value="DB Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1242" y="711" width="350" height="104" as="geometry" />
+          <mxGeometry x="1241" y="776" width="350" height="104" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-4" value="Cache Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1612" y="711" width="745" height="104" as="geometry" />
+          <mxGeometry x="1612" y="775.5" width="745" height="104" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="577uNVCEU0D2WIS48hj9-5" target="577uNVCEU0D2WIS48hj9-3">
           <mxGeometry relative="1" as="geometry" />
@@ -4304,19 +4304,22 @@
           <mxGeometry x="1860" y="475" width="153" height="54" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-19" value="Default Redis" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1722" y="736" width="155" height="54" as="geometry" />
+          <mxGeometry x="1722" y="800.5" width="155" height="54" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-20" value="Game Redis" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1965" y="736" width="143" height="54" as="geometry" />
+          <mxGeometry x="1965" y="800.5" width="143" height="54" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-21" value="Pub/Sub Redis" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2159" y="736" width="162" height="54" as="geometry" />
+          <mxGeometry x="2159" y="800.5" width="162" height="54" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-22" value="MySQL" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1277" y="736" width="106" height="54" as="geometry" />
+          <mxGeometry x="1276" y="801" width="106" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="KgfTxyIvW0hmByx6K5Xc-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="577uNVCEU0D2WIS48hj9-23" target="577uNVCEU0D2WIS48hj9-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-23" value="MongoDB" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1432" y="736" width="124" height="54" as="geometry" />
+          <mxGeometry x="1431" y="801" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-24" value="APM Server" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="838" y="736" width="140" height="54" as="geometry" />
