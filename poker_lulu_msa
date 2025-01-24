@@ -4220,19 +4220,19 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-148" value="Data Access Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2000" y="6300" width="1580" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-149" value="Core Services" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-149" value="Game Server Socket" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="2000" y="5200" width="1574.75" height="1029" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-150" value="Tournament Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-150" value="Tournament Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2740" y="5340" width="740" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-151" value="Table Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-151" value="Table Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2171" y="5590" width="1319" height="152" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-152" value="Player Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-152" value="Player Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2171" y="5801" width="1319" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-153" value="Game Logic" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-153" value="Game Logic" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="2170" y="5340" width="503.75" height="186" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-154" value="API Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
@@ -4253,7 +4253,7 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-163" value="Player Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2400" y="5840" width="161" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-164" value="Player Domain" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-164" value="Client Socket" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="3201.75" y="5840" width="163" height="54" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-165" value="Table Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
@@ -4289,9 +4289,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-197" value="Client Socket" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3680" y="5658" width="281" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
