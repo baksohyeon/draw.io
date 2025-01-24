@@ -4130,7 +4130,7 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-121" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/users/user.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=12;fontColor=#4277BB;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-120">
           <mxGeometry x="9" y="10" width="82" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-122" value="Data Storage Layer" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fillColor=none;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-122" value="Data Storage Layer" style="whiteSpace=wrap;strokeWidth=2;align=center;verticalAlign=top;fillColor=none;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="2830" y="3910" width="1210" height="1090" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-123" value="Business Logic Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;align=left;fontSize=24;fillColor=none;" vertex="1" parent="1">
