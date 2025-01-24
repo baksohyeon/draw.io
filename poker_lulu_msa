@@ -3792,10 +3792,13 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CWIcotZvYRhWWLzUtkwb" name="Page-6">
-    <mxGraphModel dx="3417" dy="-838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2351" dy="-287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-201" value="Game Server" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1820" y="2260" width="2310" height="1540" as="geometry" />
+        </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-1" value="Client &amp; Gateway Layer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;align=left;verticalAlign=top;fontSize=24;dashed=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="350" y="2798" width="1400" height="550" as="geometry" />
         </mxCell>
@@ -4217,10 +4220,10 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-147" value="MySQL&#xa;User Data" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="2050" y="4070" width="190" height="191" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-148" value="Data Access Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-148" value="Data Access Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1930" y="3540" width="1580" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-149" value="Game Server Socket" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-149" value="Game Server Socket" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1930" y="2440" width="1574.75" height="1029" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-150" value="Tournament Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
