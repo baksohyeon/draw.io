@@ -4251,7 +4251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b2Xik6lrETev5LNXewmS" name="Page-7">
-    <mxGraphModel dx="2192" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1838" dy="1725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4291,10 +4291,10 @@
         <mxCell id="577uNVCEU0D2WIS48hj9-11" value="CDN/Static" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1426" y="-325" width="139" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-12" value="Web Frontend/React" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-12" value="Web Frontend" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1302" y="-171" width="208" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-13" value="Web Backend/Spring" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-13" value="Web Backend" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1563" y="-171" width="208" height="54" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-14" value="Lobby Server 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
