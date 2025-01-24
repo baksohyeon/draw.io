@@ -4398,6 +4398,9 @@
         <mxCell id="KgfTxyIvW0hmByx6K5Xc-6" value="Applicaton Load Balancer" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/management/api_management.svg;rounded=1;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;spacingTop=3;" vertex="1" parent="1">
           <mxGeometry x="1506" y="-340.5" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KgfTxyIvW0hmByx6K5Xc-10" value="&lt;ul&gt;&lt;br&gt;&lt;li&gt;게임 서버 ↔ 센터 서버: 양방향 통신&lt;/li&gt;&lt;br&gt;&lt;li&gt;게임 서버 ↔&amp;nbsp;클라이언트: 웹소켓 기반 실시간 통신&lt;/li&gt;&lt;br&gt;&lt;li&gt;게임 서버 ↔&amp;nbsp;데이터베이스: 데이터 저장 및 조회&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="470" width="320" height="150" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
