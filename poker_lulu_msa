@@ -4251,14 +4251,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b2Xik6lrETev5LNXewmS" name="Page-7">
-    <mxGraphModel dx="2014" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3860" dy="2836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="577uNVCEU0D2WIS48hj9-1" value="Monitoring" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-1" value="Monitoring" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="800" y="686" width="402" height="283" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-2" value="Storage Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-2" value="Storage Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1222" y="686" width="1155" height="284" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-3" value="DB Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
