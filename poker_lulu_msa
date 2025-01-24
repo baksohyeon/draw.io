@@ -3796,7 +3796,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-201" value="Game Server" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-201" value="Game Server" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1820" y="2260" width="2310" height="1540" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-1" value="Client &amp; Gateway Layer" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f5f5f5;align=left;verticalAlign=top;fontSize=24;dashed=1;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -4239,19 +4239,19 @@
           <mxGeometry x="2100" y="2580" width="503.75" height="186" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-154" value="API Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3610" y="2718" width="285" height="104" as="geometry" />
+          <mxGeometry x="3620" y="2827.5" width="440" height="222.5" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-155" value="External Systems" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3612" y="2440" width="281" height="228" as="geometry" />
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-155" value="Event Handler" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3612" y="2440" width="448" height="290" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-156" value="Center Server Client" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-155">
-          <mxGeometry x="46" y="43" width="206" height="54" as="geometry" />
+          <mxGeometry x="73.33807829181492" y="54.69298245614035" width="328.4270462633451" height="68.68421052631578" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-157" value="Event Handlers" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="qsN5gETOw5JFKb_bYwwQ-155">
-          <mxGeometry x="65" y="147" width="168" height="54" as="geometry" />
+          <mxGeometry x="103.62989323843415" y="186.9736842105263" width="267.84341637010675" height="68.68421052631578" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-158" value="WebSocket Controller" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3645" y="2743" width="215" height="54" as="geometry" />
+          <mxGeometry x="3655" y="2852.5" width="355" height="147.5" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-163" value="Player Service" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="2330" y="3080" width="161" height="54" as="geometry" />
@@ -4284,11 +4284,6 @@
           <mxGeometry x="3150" y="3600" width="225" height="54" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-183" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;" edge="1" parent="1" source="qsN5gETOw5JFKb_bYwwQ-155" target="qsN5gETOw5JFKb_bYwwQ-154">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-184" value="" style="curved=1;startArrow=none;endArrow=block;rounded=0;fontSize=20;" edge="1" parent="1" source="qsN5gETOw5JFKb_bYwwQ-155" target="qsN5gETOw5JFKb_bYwwQ-149">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
