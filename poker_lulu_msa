@@ -4273,10 +4273,10 @@
         <mxCell id="577uNVCEU0D2WIS48hj9-5" value="Game Logic Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="848" y="110" width="1452" height="526" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-6" value="Play Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="868" y="450" width="1412" height="104" as="geometry" />
+        <mxCell id="577uNVCEU0D2WIS48hj9-6" value="Play Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="868" y="380" width="1412" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-7" value="Center Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-7" value="Center Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1383" y="160" width="610" height="104" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-8" value="Web Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;fillColor=none;" vertex="1" parent="1">
@@ -4376,7 +4376,7 @@
           <mxGeometry x="1673" y="-52.5" width="20" height="635" as="geometry" />
         </mxCell>
         <mxCell id="21UBGFxV2OAGkvWUZyDD-3" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=1;right=0;top=1;bottom=1;fillColor=none;routingCenterX=-0.5;shadow=0;labelBackgroundColor=#ffffff;strokeColor=#4277BB;strokeWidth=2;fontSize=14;fontColor=#4277BB;align=center;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="1561" y="-265" width="21" height="1430" as="geometry" />
+          <mxGeometry x="1563" y="-340.5" width="21" height="1430" as="geometry" />
         </mxCell>
         <mxCell id="KgfTxyIvW0hmByx6K5Xc-1" value="CLOUD&lt;div&gt;USER&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/users/user.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" vertex="1" parent="1">
           <mxGeometry x="1390" y="-555" width="60" height="60" as="geometry" />
