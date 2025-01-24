@@ -3792,7 +3792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CWIcotZvYRhWWLzUtkwb" name="Page-6">
-    <mxGraphModel dx="2351" dy="-287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3417" dy="331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4223,7 +4223,7 @@
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-148" value="Data Access Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1930" y="3540" width="1580" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-149" value="Game Server Socket" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-149" value="Game Server Socket" style="whiteSpace=wrap;strokeWidth=2;fontSize=32;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1930" y="2440" width="1574.75" height="1029" as="geometry" />
         </mxCell>
         <mxCell id="qsN5gETOw5JFKb_bYwwQ-150" value="Tournament Management" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
