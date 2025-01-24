@@ -2889,7 +2889,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7xqcGCZ6VnuFdajnDNov" name="Page-5">
-    <mxGraphModel dx="4238" dy="2836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="16177" dy="8669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3618,28 +3618,28 @@
           <mxGeometry x="2920" y="3989" width="160" height="111" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-9" value="Data Access Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4524" y="6809" width="1478" height="104" as="geometry" />
+          <mxGeometry x="2146.75" y="6279" width="1478" height="104" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-10" value="Core Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4510" y="5840" width="1442" height="919" as="geometry" />
+          <mxGeometry x="2132.75" y="5310" width="1442" height="919" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-11" value="Tournament Management" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5220" y="6322" width="627" height="104" as="geometry" />
+          <mxGeometry x="2842.75" y="5792" width="627" height="104" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-12" value="Table Management" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5056" y="6476" width="659" height="104" as="geometry" />
+          <mxGeometry x="2678.75" y="5946" width="659" height="104" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-13" value="Player Management" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4767" y="6630" width="597" height="104" as="geometry" />
+          <mxGeometry x="2389.75" y="6100" width="597" height="104" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-14" value="Game Logic" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4626" y="5865" width="575" height="561" as="geometry" />
+          <mxGeometry x="2248.75" y="5335" width="575" height="561" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-15" value="API Layer" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5985" y="6168" width="285" height="104" as="geometry" />
+          <mxGeometry x="3607.75" y="5638" width="285" height="104" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-16" value="External Systems" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="5987" y="5890" width="281" height="228" as="geometry" />
+          <mxGeometry x="3609.75" y="5360" width="281" height="228" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-17" value="Center Server Client" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="39VRd9O4i8otShcgeZKN-16">
           <mxGeometry x="46" y="43" width="206" height="54" as="geometry" />
@@ -3648,63 +3648,63 @@
           <mxGeometry x="65" y="147" width="168" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-19" value="WebSocket Controller" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="6020" y="6193" width="215" height="54" as="geometry" />
+          <mxGeometry x="3642.75" y="5663" width="215" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-20" value="Game Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4661" y="6347" width="158" height="54" as="geometry" />
+          <mxGeometry x="2283.75" y="5817" width="158" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-21" value="Game Domain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4987" y="6347" width="159" height="54" as="geometry" />
+          <mxGeometry x="2609.75" y="5817" width="159" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-22" value="Hand" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5018" y="6193" width="97" height="54" as="geometry" />
+          <mxGeometry x="2640.75" y="5663" width="97" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-23" value="Round" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5015" y="5977" width="104" height="54" as="geometry" />
+          <mxGeometry x="2637.75" y="5447" width="104" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-24" value="Player Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4802" y="6655" width="161" height="54" as="geometry" />
+          <mxGeometry x="2424.75" y="6125" width="161" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-25" value="Player Domain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5148" y="6655" width="163" height="54" as="geometry" />
+          <mxGeometry x="2770.75" y="6125" width="163" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-26" value="Table Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5526" y="6501" width="155" height="54" as="geometry" />
+          <mxGeometry x="3148.75" y="5971" width="155" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-27" value="Table Domain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5193" y="6501" width="156" height="54" as="geometry" />
+          <mxGeometry x="2815.75" y="5971" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-28" value="Tournament Service" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5611" y="6347" width="202" height="54" as="geometry" />
+          <mxGeometry x="3233.75" y="5817" width="202" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-29" value="Tournament Domain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5255" y="6347" width="203" height="54" as="geometry" />
+          <mxGeometry x="2877.75" y="5817" width="203" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-30" value="Game Repository" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4559" y="6834" width="181" height="54" as="geometry" />
+          <mxGeometry x="2181.75" y="6304" width="181" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-31" value="Player Repository" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="4790" y="6834" width="185" height="54" as="geometry" />
+          <mxGeometry x="2412.75" y="6304" width="185" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-32" value="Table Repository" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5514" y="6834" width="178" height="54" as="geometry" />
+          <mxGeometry x="3136.75" y="6304" width="178" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-33" value="Tournament Repository" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="5742" y="6834" width="225" height="54" as="geometry" />
+          <mxGeometry x="3364.75" y="6304" width="225" height="54" as="geometry" />
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.04;entryY=0;rounded=0;" edge="1" parent="1" source="39VRd9O4i8otShcgeZKN-21" target="39VRd9O4i8otShcgeZKN-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5133" y="6426" />
-              <mxPoint x="5133" y="6476" />
+              <mxPoint x="2755.75" y="5896" />
+              <mxPoint x="2755.75" y="5946" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0;entryY=0.14;rounded=0;" edge="1" parent="1" source="39VRd9O4i8otShcgeZKN-21" target="39VRd9O4i8otShcgeZKN-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5013" y="6426" />
-              <mxPoint x="5013" y="6630" />
+              <mxPoint x="2635.75" y="5896" />
+              <mxPoint x="2635.75" y="6100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3721,22 +3721,22 @@
         <mxCell id="39VRd9O4i8otShcgeZKN-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.63;entryY=0;rounded=0;" edge="1" parent="1" source="39VRd9O4i8otShcgeZKN-27" target="39VRd9O4i8otShcgeZKN-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5272" y="6630" />
+              <mxPoint x="2894.75" y="6100" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.79;entryY=0;rounded=0;" edge="1" parent="1" source="39VRd9O4i8otShcgeZKN-29" target="39VRd9O4i8otShcgeZKN-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5357" y="6476" />
+              <mxPoint x="2979.75" y="5946" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="39VRd9O4i8otShcgeZKN-40" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="39VRd9O4i8otShcgeZKN-20" target="39VRd9O4i8otShcgeZKN-30">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="4740" y="6426" />
-              <mxPoint x="4650" y="6451" />
+              <mxPoint x="2362.75" y="5896" />
+              <mxPoint x="2272.75" y="5921" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3753,8 +3753,8 @@
         <mxCell id="39VRd9O4i8otShcgeZKN-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="39VRd9O4i8otShcgeZKN-28" target="39VRd9O4i8otShcgeZKN-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="5712" y="6426" />
-              <mxPoint x="5854" y="6451" />
+              <mxPoint x="3334.75" y="5896" />
+              <mxPoint x="3476.75" y="5921" />
             </Array>
           </mxGeometry>
         </mxCell>
