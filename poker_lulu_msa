@@ -4273,10 +4273,10 @@
         <mxCell id="577uNVCEU0D2WIS48hj9-5" value="Game Logic Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="848" y="110" width="1452" height="526" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-6" value="Play Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-6" value="Play Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="868" y="450" width="1412" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-7" value="Lobby Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-7" value="Lobby Server Cluster" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="1383" y="160" width="610" height="104" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-8" value="Web Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;" vertex="1" parent="1">
