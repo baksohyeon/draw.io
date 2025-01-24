@@ -3792,7 +3792,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CWIcotZvYRhWWLzUtkwb" name="Page-6">
-    <mxGraphModel dx="3385" dy="-1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2985" dy="-1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4290,8 +4290,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qsN5gETOw5JFKb_bYwwQ-197" value="Client Socket" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="3692" y="5666" width="281" height="228" as="geometry" />
+        <mxCell id="qsN5gETOw5JFKb_bYwwQ-197" value="Client Socket" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=middle;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="3692" y="5810" width="281" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
