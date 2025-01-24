@@ -2978,19 +2978,19 @@
           <mxGeometry x="1386.1790476190474" y="472.8188976377953" width="1325.6380952380953" height="423.496062992126" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-38" value="Database Operations" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=20;fillColor=none;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-37">
-          <mxGeometry x="338.19428571428574" y="73.13385826771653" width="943.6038095238096" height="304.4409448818898" as="geometry" />
+          <mxGeometry x="338.19" y="73.13" width="671.81" height="304.44" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-39" value="Get Standing Users" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-38">
-          <mxGeometry x="55.62380952380953" y="28.915905511811047" width="203.54285714285714" height="91.84251968503938" as="geometry" />
+          <mxGeometry x="39.602035408323104" y="28.915815766604616" width="144.91476769911503" height="91.84223463687151" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-40" value="Match Users" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-38">
-          <mxGeometry x="95.62714285714287" y="164.04590551181104" width="152.3961904761905" height="91.84251968503938" as="geometry" />
+          <mxGeometry x="68.08288626481655" y="164.0453963687151" width="108.50028761061947" height="91.84223463687151" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-41" value="Rollback Matching" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-38">
-          <mxGeometry x="505.2038095238096" y="120.75590551181105" width="197.28" height="91.84251968503938" as="geometry" />
+          <mxGeometry x="265.6784302330276" y="164.0453963687151" width="140.45585176991148" height="91.84223463687151" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-42" value="Create Game" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-38">
-          <mxGeometry x="754.6742857142858" y="120.75590551181105" width="160.74666666666667" height="91.84251968503938" as="geometry" />
+          <mxGeometry x="445.62919430975876" y="44.0457688081937" width="114.44550884955751" height="91.84223463687151" as="geometry" />
         </mxCell>
         <mxCell id="63KC6fxdUFCNNPf33lAv-43" value="Matching Logic" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="63KC6fxdUFCNNPf33lAv-37">
           <mxGeometry x="60.54095238095238" y="180.28346456692915" width="173.27238095238096" height="91.84251968503938" as="geometry" />
