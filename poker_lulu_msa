@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="7">
   <diagram id="31b32b95-0358-9bc7-6ba0-a27c054ed1a7" name="Page-1">
     <mxGraphModel dx="2362" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -4549,6 +4549,229 @@
         </mxCell>
         <mxCell id="4_1eEyYM3E4OjSxa5VVA-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Game Server&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;1. 다양한 게임 모드 지원 (토너먼트 및 링 게임 모드 등)&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;2. 실시간 멀티플레이어 지원&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;3. 실시간 온라인 포커 게임 및 유저 상태 관리&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;4. 세션 관리&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;5. 데이터베이스 연동&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="919" y="590" width="268.5" height="240" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
+    <mxGraphModel dx="2730" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-1" value="������ 데이터 저장소" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="991" width="478" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-2" value="������ 게임 테이블" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="814" width="1290" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-3" value="테이블 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="839" width="569" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-4" value="테이블 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="629" y="839" width="661" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-5" value="게임 로비 서버" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;spacingLeft=12;" vertex="1" parent="1">
+          <mxGeometry x="564" y="286" width="957" height="474" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-6" value="로비 기능" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="726" y="523" width="572" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-7" value="������ 사용자 화면" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="62" y="20" width="1102" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-8" value="웹 브라우저/앱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="397" y="45" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-9" value="실시간 통신 모듈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="392" y="153" width="167" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-10" value="로비 서버" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="419" width="120" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-11" value="실시간 메시지 처리기" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="311" width="194" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-12" value="테이블 관리" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="985" y="681" width="134" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-13" value="게임방 목록 표시" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="761" y="548" width="167" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-14" value="플레이어 매칭" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="978" y="548" width="148" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-15" value="채팅" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1176" y="548" width="88" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-16" value="게임 테이블 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="864" width="147" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-17" value="게임 진행 관리" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="664" y="1028" width="153" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-18" value="게임 규칙/베팅" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="958" y="1028" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-19" value="게임 테이블 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="369" y="864" width="147" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-20" value="게임 진행 관리" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="75" y="1028" width="153" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-21" value="게임 규칙/베팅" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="278" y="1028" width="156" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-22" value="실시간 데이터&#xa;게임상태/유저상태" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="1016" width="179" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-23" value="영구 데이터&#xa;게임결과/유저정보" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1594" y="1016" width="179" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-24" value="1. 접속" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-8" target="JwTp6PPfvDzNFmgvRq9E-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-25" value="2. 로비 입장" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-9" target="JwTp6PPfvDzNFmgvRq9E-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1145" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-26" value="3. 로비 정보" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-11" target="JwTp6PPfvDzNFmgvRq9E-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.69;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-10" target="JwTp6PPfvDzNFmgvRq9E-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="844" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.09;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-10" target="JwTp6PPfvDzNFmgvRq9E-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1052" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=1;entryX=0.49;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-10" target="JwTp6PPfvDzNFmgvRq9E-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1219" y="498" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-30" value="4. 테이블 배정" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-14" target="JwTp6PPfvDzNFmgvRq9E-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-31" value="5. 게임 입장" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1109" y="760" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-32" value="5. 게임 입장" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="664" y="760" />
+              <mxPoint x="442" y="787" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=1;entryY=0.01;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-16" target="JwTp6PPfvDzNFmgvRq9E-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="924" y="955" />
+              <mxPoint x="924" y="991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.29;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-16" target="JwTp6PPfvDzNFmgvRq9E-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1037" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.94;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-19" target="JwTp6PPfvDzNFmgvRq9E-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="244" y="955" />
+              <mxPoint x="244" y="991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-19" target="JwTp6PPfvDzNFmgvRq9E-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="356" y="955" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-37" value="6. 실시간 게임 상태" style="curved=1;startArrow=none;endArrow=block;exitX=0.4;exitY=0;entryX=0.32;entryY=1;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-17" target="JwTp6PPfvDzNFmgvRq9E-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="705" y="991" />
+              <mxPoint x="705" y="787" />
+              <mxPoint x="419" y="760" />
+              <mxPoint x="419" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-38" value="6. 실시간 게임 상태" style="curved=1;startArrow=none;endArrow=block;exitX=0.47;exitY=0;entryX=0;entryY=0.74;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-20" target="JwTp6PPfvDzNFmgvRq9E-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="991" />
+              <mxPoint x="141" y="232" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-39" value="로비 상태 저장" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-10" target="JwTp6PPfvDzNFmgvRq9E-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1424" y="498" />
+              <mxPoint x="1424" y="991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-40" value="게임 상태 저장" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0;entryY=0.29;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-16" target="JwTp6PPfvDzNFmgvRq9E-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1105" y="955" />
+              <mxPoint x="1105" y="991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-41" value="게임 상태 저장" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1;entryX=0;entryY=0.43;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-19" target="JwTp6PPfvDzNFmgvRq9E-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="424" y="955" />
+              <mxPoint x="424" y="991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-42" value="게임 결과 저장" style="curved=1;startArrow=none;endArrow=block;exitX=0.83;exitY=1;entryX=0;entryY=0.34;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-16" target="JwTp6PPfvDzNFmgvRq9E-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1222" y="955" />
+              <mxPoint x="1222" y="991" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-43" value="게임 결과 저장" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=1;entryX=0;entryY=0.44;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-19" target="JwTp6PPfvDzNFmgvRq9E-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="541" y="955" />
+              <mxPoint x="541" y="991" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
