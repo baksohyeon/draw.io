@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="7">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="8">
   <diagram id="31b32b95-0358-9bc7-6ba0-a27c054ed1a7" name="Page-1">
     <mxGraphModel dx="2362" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -4554,23 +4554,23 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
-    <mxGraphModel dx="2730" dy="1500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2777" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-1" value="������ 데이터 저장소" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1330" y="991" width="478" height="153" as="geometry" />
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-1" value="������ 데이터 저장소" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="970" width="478" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-2" value="������ 게임 테이블" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="814" width="1290" height="330" as="geometry" />
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-2" value="게임 테이블 (game server)" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="10" y="800" width="1300" height="344" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-3" value="테이블 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-3" value="테이블 2" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="40" y="839" width="569" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-4" value="테이블 1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-4" value="테이블 1" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="629" y="839" width="661" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-5" value="게임 로비 서버" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;spacingLeft=12;" vertex="1" parent="1">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-5" value="게임 로비 서버 (center server)" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;spacingLeft=12;" vertex="1" parent="1">
           <mxGeometry x="564" y="286" width="957" height="474" as="geometry" />
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-6" value="로비 기능" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -4588,7 +4588,7 @@
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-10" value="로비 서버" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1085" y="419" width="120" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-11" value="실시간 메시지 처리기" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-11" value="실시간 메시지 처리" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1048" y="311" width="194" height="54" as="geometry" />
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-12" value="테이블 관리" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -4612,7 +4612,7 @@
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-18" value="게임 규칙/베팅" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="958" y="1028" width="156" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-19" value="게임 테이블 2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-19" value="실시간 상태 관리 모듈" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="369" y="864" width="147" height="54" as="geometry" />
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-20" value="게임 진행 관리" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -4632,12 +4632,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-25" value="2. 로비 입장" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-9" target="JwTp6PPfvDzNFmgvRq9E-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1145" y="232" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-25" value="2. 로비 입장" style="startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-9" target="JwTp6PPfvDzNFmgvRq9E-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-26" value="3. 로비 정보" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-11" target="JwTp6PPfvDzNFmgvRq9E-10">
           <mxGeometry relative="1" as="geometry">
@@ -4670,20 +4666,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-31" value="5. 게임 입장" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-16">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-31" value="5. 게임 입장" style="startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1109" y="760" />
+              <mxPoint x="1081" y="780" />
+              <mxPoint x="1109" y="780" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-32" value="5. 게임 입장" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="664" y="760" />
-              <mxPoint x="442" y="787" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-32" value="5. 게임 입장" style="startArrow=none;endArrow=block;exitX=0;exitY=0.67;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=1;entryY=0.01;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-16" target="JwTp6PPfvDzNFmgvRq9E-17">
           <mxGeometry relative="1" as="geometry">
@@ -4773,6 +4765,47 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-1" value="Storage Layer" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1207.5" y="1280" width="1155" height="284" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-2" value="MySQL" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1226.5" y="1370" width="143.5" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-3" value="Cache Layer" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1597.5" y="1369.5" width="745" height="144.5" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-4" value="영구 데이터&#xa;게임결과/유저정보" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1245.5" y="1404" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-5" value="Default &#xa;Redis" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1658.5" y="1404" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-6" value="Game&#xa;Redis" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1887.5" y="1404" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-7" value="Pub/Sub&#xa;Redis" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2114.25" y="1397" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-8" value="Mongo DB" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1410" y="1370" width="143.5" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-9" value="실시간 데이터&#xa;게임상태/유저상태" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1426.5" y="1404" width="111" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-10" value="MySQL" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-390" y="221" width="143.5" height="144" as="geometry" />
+        </mxCell>
+        <mxCell id="IhotUong0kdNufxbDeYf-11" value="영구 데이터&#xa;게임결과/유저정보" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-371" y="255" width="111" height="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xxzVyaA3dBoczOocdcIU" name="Page-9">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
