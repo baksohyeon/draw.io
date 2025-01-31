@@ -4251,7 +4251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b2Xik6lrETev5LNXewmS" name="Page-7">
-    <mxGraphModel dx="4013" dy="3044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4550" dy="3669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4414,7 +4414,7 @@
         <mxCell id="adhhLdR7L7ce3KeE6VDl-4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Cache Data&lt;/h1&gt;&lt;p&gt;- Chat&lt;/p&gt;&lt;p&gt;- Rank&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1858.5" y="1590" width="140" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="adhhLdR7L7ce3KeE6VDl-5" value="Game Client" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;verticalAlign=top;strokeColor=#6C8EBF;" vertex="1" parent="1">
+        <mxCell id="adhhLdR7L7ce3KeE6VDl-5" value="Game Client" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;verticalAlign=middle;strokeColor=#6C8EBF;" vertex="1" parent="1">
           <mxGeometry x="1310" y="358" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="VfqkUkh3jjtJfc12wZ81-91" value="Game DB" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
@@ -4543,6 +4543,12 @@
         </mxCell>
         <mxCell id="VfqkUkh3jjtJfc12wZ81-122" value="Backup &amp;amp; Restore" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/data_services.svg;labelBackgroundColor=none;strokeColor=#4277BB;strokeWidth=2;fillColor=#E52134;gradientColor=none;fontSize=12;fontColor=#4277BB;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="VfqkUkh3jjtJfc12wZ81-116">
           <mxGeometry x="280" y="119" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4_1eEyYM3E4OjSxa5VVA-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Center Server&lt;/h1&gt;&lt;p&gt;1. 게임 생성 및 관리&lt;/p&gt;&lt;p&gt;2. 토너먼트 관리&lt;/p&gt;&lt;p&gt;3. 데이터베이스 작업&lt;br&gt;&lt;/p&gt;&lt;p&gt;4. 실시간 통신&lt;/p&gt;&lt;p&gt;5. 패킷 처리&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2068" y="140" width="170" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="4_1eEyYM3E4OjSxa5VVA-2" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Game Server&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;1. 다양한 게임 모드 지원 (토너먼트 및 링 게임 모드 등)&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;2. 실시간 멀티플레이어 지원&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;3. 실시간 온라인 포커 게임 및 유저 상태 관리&amp;nbsp;&lt;/span&gt;&lt;/h1&gt;&lt;h1 style=&quot;margin-top: 0px; line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal; line-height: 80%;&quot;&gt;4. 세션 관리&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;line-height: 80%;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 12px; font-weight: normal;&quot;&gt;5. 데이터베이스 연동&lt;/span&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="919" y="590" width="268.5" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
