@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="8">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.10" pages="7">
   <diagram id="31b32b95-0358-9bc7-6ba0-a27c054ed1a7" name="Page-1">
     <mxGraphModel dx="2362" dy="1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -4554,7 +4554,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
-    <mxGraphModel dx="2192" dy="1919" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3309" dy="2533" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4766,14 +4766,18 @@
         <mxCell id="l_EAxDVB-1ThnSV-ywO2-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Center Server&lt;/h1&gt;&lt;p&gt;1. 게임 생성 및 관리&lt;/p&gt;&lt;p&gt;2. 토너먼트 관리&lt;/p&gt;&lt;p&gt;3. 데이터베이스 작업&lt;br&gt;&lt;/p&gt;&lt;p&gt;4. 실시간 통신&lt;/p&gt;&lt;p&gt;5. 패킷 처리&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="1550" y="283" width="170" height="190" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="xxzVyaA3dBoczOocdcIU" name="Page-9">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-1" value="CLOUD&lt;div&gt;USER&lt;/div&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/users/user.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="-665" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-2" value="CLOUD" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/data/cloud.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1701" y="-665" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-4" value="DEVICES" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/ibm/users/device.svg;labelBackgroundColor=#ffffff;strokeColor=#666666;strokeWidth=3;fillColor=#C2952D;gradientColor=none;fontSize=14;fontColor=#4277BB;" vertex="1" parent="1">
+          <mxGeometry x="1581" y="-665" width="60" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-5" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=1;top=1;bottom=1;fillColor=none;routingCenterX=-0.5;shadow=0;labelBackgroundColor=#ffffff;strokeColor=#4277BB;strokeWidth=2;fontSize=14;fontColor=#4277BB;align=center;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="1596" y="-750" width="20" height="359.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
