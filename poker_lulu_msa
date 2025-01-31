@@ -4554,10 +4554,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
-    <mxGraphModel dx="4240" dy="3044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3102" dy="2419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fm8ZzUkUBCjtOkuC5Nkb-6" value="&#xa;" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;spacingLeft=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="557" y="276.5" width="957" height="474" as="geometry" />
+        </mxCell>
+        <mxCell id="fm8ZzUkUBCjtOkuC5Nkb-5" value="" style="whiteSpace=wrap;strokeWidth=2;align=center;verticalAlign=top;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="988" width="1300" height="344" as="geometry" />
+        </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-1" value=" 데이터 저장소" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="-360" y="440" width="810" height="377" as="geometry" />
         </mxCell>
@@ -4741,12 +4747,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-39" value="로비 상태 저장" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.71;entryX=0.4;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-10">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-39" value="로비 상태 저장" style="curved=1;startArrow=none;endArrow=block;entryX=0.4;entryY=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-10">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1424" y="498" />
-              <mxPoint x="1424" y="991" />
-            </Array>
+            <mxPoint x="1424" y="498" as="sourcePoint" />
             <mxPoint x="1436.5999999999995" y="1016" as="targetPoint" />
           </mxGeometry>
         </mxCell>
