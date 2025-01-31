@@ -4251,7 +4251,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="b2Xik6lrETev5LNXewmS" name="Page-7">
-    <mxGraphModel dx="3557" dy="2669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3102" dy="2419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4269,9 +4269,6 @@
             <mxPoint x="119.5" y="8" as="sourcePoint" />
             <mxPoint x="119.5" y="8" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="xBiJipYHs8g4UruUgJd9-4" value="Game Client" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="1536" y="-150" width="140" height="140" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-1" value="Monitoring" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="785.5" y="1280" width="402" height="283" as="geometry" />
@@ -4320,16 +4317,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-14" value="Center Server 1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-14" value="Center Server 1" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="1504" y="210" width="166" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-15" value="Center Server 2" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-15" value="Center Server 2" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="1733" y="210" width="166" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-17" value="Game Server 2 (gs_1)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-17" value="Game Server 2 (gs_1)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;strokeColor=#ae4132;fillColor=#fad9d5;" parent="1" vertex="1">
           <mxGeometry x="1733" y="687" width="153" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-18" value="Game Server 3 (gs_2)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="577uNVCEU0D2WIS48hj9-18" value="Game Server 3 (gs_2)" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;strokeColor=#ae4132;fillColor=#fad9d5;" parent="1" vertex="1">
           <mxGeometry x="2030" y="687" width="153" height="54" as="geometry" />
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-24" value="APM Server" style="whiteSpace=wrap;strokeWidth=2;fontSize=14;" parent="1" vertex="1">
@@ -4363,8 +4360,20 @@
         <mxCell id="577uNVCEU0D2WIS48hj9-55" value="" style="startArrow=none;endArrow=block;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;edgeStyle=elbowEdgeStyle;" parent="1" source="577uNVCEU0D2WIS48hj9-5" target="577uNVCEU0D2WIS48hj9-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="577uNVCEU0D2WIS48hj9-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=0.08;entryDx=0;entryDy=0;fontSize=14;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="xBiJipYHs8g4UruUgJd9-4" target="577uNVCEU0D2WIS48hj9-15" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="577uNVCEU0D2WIS48hj9-57" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.579;entryY=0.08;entryDx=0;entryDy=0;fontSize=14;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="577uNVCEU0D2WIS48hj9-8" target="577uNVCEU0D2WIS48hj9-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1606" y="-10" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1606" y="-190" />
+              <mxPoint x="1606" />
+              <mxPoint x="1829" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VfqkUkh3jjtJfc12wZ81-97" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="577uNVCEU0D2WIS48hj9-57">
+          <mxGeometry x="-0.1127" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="577uNVCEU0D2WIS48hj9-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.513;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;" parent="1" source="577uNVCEU0D2WIS48hj9-17" target="577uNVCEU0D2WIS48hj9-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -4401,9 +4410,6 @@
         </mxCell>
         <mxCell id="KgfTxyIvW0hmByx6K5Xc-13" value="- 덱 생성 및 셔플&lt;div&gt;- 게임 진행 (베팅, 카드 분배, 블라인드 설정 등)&lt;/div&gt;&lt;div&gt;- 승자 결정 및 상금 분배&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="2440" y="380" width="390" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="xBiJipYHs8g4UruUgJd9-3" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.gamelift_2;" parent="1" vertex="1">
-          <mxGeometry x="1568" y="-110" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="9GlCG6fkd8zalN9fS4RJ-5" value="MySQL&#xa;User Data" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1245.5" y="1404" width="111" height="90" as="geometry" />
@@ -4549,16 +4555,16 @@
         <mxCell id="VfqkUkh3jjtJfc12wZ81-91" value="Game DB" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=14;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1410" y="1370" width="143.5" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="VfqkUkh3jjtJfc12wZ81-90" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" connectable="0" parent="1">
+        <mxCell id="VfqkUkh3jjtJfc12wZ81-90" value="" style="group;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1200" y="585" width="470" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="VfqkUkh3jjtJfc12wZ81-51" value="" style="swimlane;shadow=1;labelBackgroundColor=#007FFF;strokeColor=#4277BB;fillColor=none;gradientColor=none;fontColor=#000000;align=right;collapsible=0;startSize=0;strokeWidth=3;swimlaneFillColor=#ffffff;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="VfqkUkh3jjtJfc12wZ81-90">
+        <mxCell id="VfqkUkh3jjtJfc12wZ81-51" value="" style="swimlane;shadow=1;labelBackgroundColor=#007FFF;strokeColor=#ae4132;fillColor=#fad9d5;align=right;collapsible=0;startSize=0;strokeWidth=3;swimlaneFillColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;gradientColor=none;" vertex="1" parent="VfqkUkh3jjtJfc12wZ81-90">
           <mxGeometry width="470" height="290" as="geometry" />
         </mxCell>
         <mxCell id="VfqkUkh3jjtJfc12wZ81-52" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;Game Server 1 (gs_0)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;fontColor=#4277BB;shadow=0;dashed=0;strokeColor=none;fillColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=12;spacingLeft=5;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="VfqkUkh3jjtJfc12wZ81-51">
           <mxGeometry x="5" y="7" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VfqkUkh3jjtJfc12wZ81-53" value="" style="swimlane;shadow=0;labelBackgroundColor=#007FFF;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;collapsible=0;startSize=0;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="VfqkUkh3jjtJfc12wZ81-51">
+        <mxCell id="VfqkUkh3jjtJfc12wZ81-53" value="" style="swimlane;shadow=0;labelBackgroundColor=#007FFF;strokeColor=#6c8ebf;fillColor=#dae8fc;align=right;collapsible=0;startSize=0;strokeWidth=3;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;swimlaneFillColor=default;" vertex="1" parent="VfqkUkh3jjtJfc12wZ81-51">
           <mxGeometry x="40" y="41" width="390" height="220" as="geometry" />
         </mxCell>
         <mxCell id="VfqkUkh3jjtJfc12wZ81-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;exitX=0.75;exitY=0;entryX=0.75;entryY=0;labelBackgroundColor=#ffffff;startArrow=classic;startFill=1;startSize=4;endSize=4;jettySize=auto;orthogonalLoop=1;strokeColor=#EDC11C;strokeWidth=2;fontSize=12;fontColor=#4277BB;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" edge="1" parent="VfqkUkh3jjtJfc12wZ81-53">
