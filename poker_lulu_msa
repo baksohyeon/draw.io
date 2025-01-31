@@ -4554,7 +4554,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
-    <mxGraphModel dx="2014" dy="1821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2533" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4581,6 +4581,16 @@
         </mxCell>
         <mxCell id="mxsnF-8UMdYkBrSHftMG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-8" target="mxsnF-8UMdYkBrSHftMG-2">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-8" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;i&gt;3333&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" connectable="0" parent="mxsnF-8UMdYkBrSHftMG-3">
+          <mxGeometry x="0.8398" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-12" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;i&gt;3000&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" connectable="0" parent="mxsnF-8UMdYkBrSHftMG-3">
+          <mxGeometry x="-0.8873" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-8" value="웹 브라우저/앱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="397" y="-55" width="156" height="54" as="geometry" />
@@ -4645,6 +4655,16 @@
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-25" value="2. 로비 입장" style="startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-9" target="JwTp6PPfvDzNFmgvRq9E-11">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-7" value="&lt;span&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;i&gt;8080&lt;/i&gt;&lt;/font&gt;&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" connectable="0" parent="JwTp6PPfvDzNFmgvRq9E-25">
+          <mxGeometry x="0.9168" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M85h-AH6k8R9Snm_8Hc4-10" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;i&gt;5050&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" vertex="1" connectable="0" parent="JwTp6PPfvDzNFmgvRq9E-25">
+          <mxGeometry x="-0.9469" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-26" value="3. 로비 정보" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="JwTp6PPfvDzNFmgvRq9E-11" target="JwTp6PPfvDzNFmgvRq9E-10">
           <mxGeometry relative="1" as="geometry">
