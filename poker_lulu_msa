@@ -4554,7 +4554,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
-    <mxGraphModel dx="2516" dy="1958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2833" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4659,24 +4659,6 @@
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-24" value="1. 접속" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="JwTp6PPfvDzNFmgvRq9E-8" target="JwTp6PPfvDzNFmgvRq9E-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-25" value="2. 로비 입장" style="startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" parent="1" source="JwTp6PPfvDzNFmgvRq9E-9" target="JwTp6PPfvDzNFmgvRq9E-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M85h-AH6k8R9Snm_8Hc4-7" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="JwTp6PPfvDzNFmgvRq9E-25" vertex="1" connectable="0">
-          <mxGeometry x="0.9168" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="M85h-AH6k8R9Snm_8Hc4-10" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="JwTp6PPfvDzNFmgvRq9E-25" vertex="1" connectable="0">
-          <mxGeometry x="-0.9469" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gel8w0mvsUeULtj0j4tx-3" value="&lt;i&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;8080&lt;/font&gt;&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="JwTp6PPfvDzNFmgvRq9E-25" vertex="1" connectable="0">
-          <mxGeometry x="0.9531" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-26" value="3. 로비 정보" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" parent="1" source="JwTp6PPfvDzNFmgvRq9E-11" target="JwTp6PPfvDzNFmgvRq9E-10" edge="1">
