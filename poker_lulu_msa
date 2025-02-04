@@ -4596,11 +4596,6 @@
             <mxPoint x="-8" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gel8w0mvsUeULtj0j4tx-8" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;i&gt;5050&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="gel8w0mvsUeULtj0j4tx-6" vertex="1" connectable="0">
-          <mxGeometry x="-0.957" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="gel8w0mvsUeULtj0j4tx-9" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;i&gt;5050&lt;/i&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="gel8w0mvsUeULtj0j4tx-6" vertex="1" connectable="0">
           <mxGeometry x="0.9627" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
