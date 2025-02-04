@@ -4554,7 +4554,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
-    <mxGraphModel dx="2777" dy="2240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3557" dy="2669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4573,7 +4573,7 @@
         <mxCell id="UJzfs02BLJCyxaP6LXH1-139" value="" style="sketch=0;outlineConnect=0;fillColor=#6C8EBF;strokeColor=#23445d;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.globe;" vertex="1" parent="UJzfs02BLJCyxaP6LXH1-3">
           <mxGeometry x="21" y="46" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="1gQS7qtjJ5zeD_7tzv7E-6" value="WEB 서버" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="1gQS7qtjJ5zeD_7tzv7E-6" value="WEB 서버" style="whiteSpace=wrap;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="64.25" y="-341" width="1110" height="300" as="geometry" />
         </mxCell>
         <mxCell id="fm8ZzUkUBCjtOkuC5Nkb-6" value="&#xa;" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;spacingLeft=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -4582,7 +4582,7 @@
         <mxCell id="fm8ZzUkUBCjtOkuC5Nkb-5" value="" style="whiteSpace=wrap;strokeWidth=2;align=center;verticalAlign=top;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="988" width="1300" height="344" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-1" value=" 데이터 저장소" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;" parent="1" vertex="1">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-1" value=" 데이터 저장소" style="whiteSpace=wrap;strokeWidth=2;align=left;verticalAlign=top;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-430" y="425.5" width="810" height="377" as="geometry" />
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-2" value="게임 테이블 (Game Server)" style="whiteSpace=wrap;strokeWidth=2;align=center;verticalAlign=top;fontSize=24;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -4600,7 +4600,7 @@
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-6" value="로비 기능" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="716" y="562" width="572" height="104" as="geometry" />
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-7" value="사용자 화면" style="whiteSpace=wrap;strokeWidth=2;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-7" value="사용자 화면" style="whiteSpace=wrap;strokeWidth=2;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="70.25" y="-601" width="1102" height="212" as="geometry" />
         </mxCell>
         <mxCell id="JwTp6PPfvDzNFmgvRq9E-8" value="웹 브라우저/앱" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
