@@ -4554,7 +4554,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="AP5wEDS9UIVJ5sqSoZcB" name="Page-8">
-    <mxGraphModel dx="1363" dy="1514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1670" dy="1712" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4725,16 +4725,26 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-31" value="게임 입장" style="startArrow=none;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;labelBackgroundColor=#D4E1F5;" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-16" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-31" value="게임 입장" style="startArrow=oval;endArrow=block;exitX=0.72;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;labelBackgroundColor=#D4E1F5;startFill=0;" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1072" y="890" />
+              <mxPoint x="1318" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gel8w0mvsUeULtj0j4tx-4" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="JwTp6PPfvDzNFmgvRq9E-31" vertex="1" connectable="0">
           <mxGeometry x="-0.8796" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JwTp6PPfvDzNFmgvRq9E-32" value="게임 입장" style="startArrow=none;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;labelBackgroundColor=#D4E1F5;" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="JwTp6PPfvDzNFmgvRq9E-32" value="게임 입장" style="startArrow=oval;endArrow=block;exitX=0.25;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;labelBackgroundColor=#D4E1F5;startFill=0;" parent="1" source="JwTp6PPfvDzNFmgvRq9E-12" target="JwTp6PPfvDzNFmgvRq9E-19" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1008" y="890" />
+              <mxPoint x="652" y="890" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gel8w0mvsUeULtj0j4tx-5" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=#BAC8D3;fontColor=#EEEEEE;fillColor=#09555B;" parent="JwTp6PPfvDzNFmgvRq9E-32" vertex="1" connectable="0">
           <mxGeometry x="-0.9041" y="1" relative="1" as="geometry">
@@ -4846,9 +4856,6 @@
         </mxCell>
         <mxCell id="l_EAxDVB-1ThnSV-ywO2-1" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;div style=&quot;text-align: right;&quot;&gt;&lt;b style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 21px;&quot;&gt;Center Server 역할&lt;/b&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;1. 게임 생성 및 관리&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;2. 토너먼트 관리&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;3. 데이터베이스 작업&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;4. 실시간 통신&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;5. 패킷 처리&lt;/font&gt;&lt;/p&gt;&lt;/blockquote&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;strokeWidth=5;align=left;" parent="1" vertex="1">
           <mxGeometry x="590" y="370" width="260" height="215.5" as="geometry" />
-        </mxCell>
-        <mxCell id="UJzfs02BLJCyxaP6LXH1-151" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#8C4FFF;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.gamelift_2;" parent="1" vertex="1">
-          <mxGeometry x="1870" y="170" width="78" height="78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
