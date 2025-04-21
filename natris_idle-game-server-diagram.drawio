@@ -13582,10 +13582,101 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Orn7GB0Ikn-h6SWbva2W" name="페이지-8">
-    <mxGraphModel dx="909" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1913" dy="1282" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-1" value="사용자" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;verticalAlign=bottom;labelPosition=center;verticalLabelPosition=top;align=center;size=65;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="35" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-2" value="/shop/purchase/currency_item" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="220" y="20" width="240" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-3" value="/shop/purchase/token" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="510" y="20" width="177" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-4" value="/shop/purchase/cash_item" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="737" y="20" width="212" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-5" value="/shop/subscription/claim" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="999" y="20" width="197" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-6" value="mail/info" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1246" y="20" width="150" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-7" value="mail/all_read" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1446" y="20" width="150" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-8" value="increase_inventory" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;" vertex="1" parent="1">
+          <mxGeometry x="1646" y="20" width="157" height="733" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-9" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#B3B3B3;height=20;width=30" vertex="1" parent="1">
+          <mxGeometry x="832" y="331" width="277" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-10" value="[구독 상품인 경우]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="eOzbHOmD2ye2gAozs_Kt-9">
+          <mxGeometry x="30" width="247" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-11" value="상품 구매 요청" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="eOzbHOmD2ye2gAozs_Kt-1" target="eOzbHOmD2ye2gAozs_Kt-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="226" y="121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-12" value="결제 토큰 발행" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="eOzbHOmD2ye2gAozs_Kt-2" target="eOzbHOmD2ye2gAozs_Kt-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="478" y="167" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-13" value="결제 검증 및 승인 요청" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="eOzbHOmD2ye2gAozs_Kt-3" target="eOzbHOmD2ye2gAozs_Kt-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="729" y="262" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-14" value="구독 상품 클레임" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="eOzbHOmD2ye2gAozs_Kt-4" target="eOzbHOmD2ye2gAozs_Kt-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="979" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-15" value="메일 전송 요청" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="eOzbHOmD2ye2gAozs_Kt-4" target="eOzbHOmD2ye2gAozs_Kt-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1091" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-16" value="메일 읽음 처리" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="eOzbHOmD2ye2gAozs_Kt-6" target="eOzbHOmD2ye2gAozs_Kt-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1430" y="553" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-17" value="인벤토리 업데이트" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;" edge="1" parent="1" source="eOzbHOmD2ye2gAozs_Kt-7" target="eOzbHOmD2ye2gAozs_Kt-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1631" y="599" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-18" value="구글: 클라이언트 구매 처리 진행" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="488" y="187" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-19" value="서버: 결제 검증 및 승인" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="737" y="282" width="212" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-20" value="상품 전달 메일 발송" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="1246" y="478" width="150" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="eOzbHOmD2ye2gAozs_Kt-21" value="상품 인벤토리 추가 완료" style="fillColor=#ffff88;strokeColor=#9E916F;" vertex="1" parent="1">
+          <mxGeometry x="1639" y="619" width="171" height="49" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
