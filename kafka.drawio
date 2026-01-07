@@ -480,12 +480,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2g6Qya4Mb8RO4CLkq3s9" name="Page-3">
-    <mxGraphModel dx="2360" dy="4676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4720" dy="7014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="Storage Layer" vertex="1">
-          <mxGeometry height="134" width="5455" x="230" y="1330" as="geometry" />
+          <mxGeometry height="164" width="5455" x="230" y="1300" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="External AI Services" vertex="1">
           <mxGeometry height="233" width="775" x="2859" y="540" as="geometry" />
