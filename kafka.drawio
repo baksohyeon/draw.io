@@ -485,10 +485,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-1" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="Storage Layer" vertex="1">
-          <mxGeometry height="164" width="5455" x="230" y="1300" as="geometry" />
+          <mxGeometry height="184" width="5115" x="570" y="1280" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-2" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="External AI Services" vertex="1">
-          <mxGeometry height="233" width="775" x="2859" y="540" as="geometry" />
+          <mxGeometry height="183" width="775" x="2859" y="590" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-3" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="Consumers" vertex="1">
           <mxGeometry height="235" width="1621" x="2369.5" y="890" as="geometry" />
@@ -503,10 +503,10 @@
           <mxGeometry height="1010" width="3220" x="1570" y="-610" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-7" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="Response Topics" vertex="1">
-          <mxGeometry height="288" width="1008" x="3670" y="39" as="geometry" />
+          <mxGeometry height="217" width="1008" x="3670" y="110" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-8" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="Request Topics" vertex="1">
-          <mxGeometry height="266" width="1825" x="1654" y="50" as="geometry" />
+          <mxGeometry height="206" width="1825" x="1654" y="110" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-9" parent="1" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=32;" value="REST API Layer" vertex="1">
           <mxGeometry height="160" width="1058" x="2776.5" y="-1060" as="geometry" />
