@@ -598,10 +598,10 @@
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-37" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="PostgreSQL&#xa;Prisma ORM" vertex="1">
           <mxGeometry height="84" width="192" x="649" y="1355" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-38" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Redis&#xa;Cache" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-38" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=22;" value="Redis&#xa;Cache" vertex="1">
           <mxGeometry height="74" width="110" x="3052" y="1360" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-39" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="AWS S3&#xa;Object Storage" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-39" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=22;" value="AWS S3&#xa;Object Storage" vertex="1">
           <mxGeometry height="84" width="187" x="3212" y="1355" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-40" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;" value="EFS&#xa;File System" vertex="1">
