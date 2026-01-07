@@ -517,22 +517,22 @@
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-83" edge="1" parent="1" source="-tRJzbTMZAdSkBsOnTmU-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="-tRJzbTMZAdSkBsOnTmU-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Web Browser" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-11" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="Web Browser" vertex="1">
           <mxGeometry height="54" width="153" x="3327" y="-1230" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Admin Portal" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-12" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="Admin Portal" vertex="1">
           <mxGeometry height="54" width="152" x="3097" y="-1230" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="user-app&#xa;:3001" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-13" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="user-app&#xa;:3001" vertex="1">
           <mxGeometry height="54" width="176" x="3303" y="-991" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="admin-app&#xa;:3000" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-14" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="admin-app&#xa;:3000" vertex="1">
           <mxGeometry height="54" width="190" x="3075" y="-991" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="file-app&#xa;:3002" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-15" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="file-app&#xa;:3002" vertex="1">
           <mxGeometry height="54" width="170" x="3513.5" y="-991" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="batch-app&#xa;:3003" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-16" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="batch-app&#xa;:3003" vertex="1">
           <mxGeometry height="54" width="186" x="2811.5" y="-991" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-17" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="kafka-producer&#xa;:21150" vertex="1">
@@ -571,28 +571,28 @@
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-28" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="Broker&#xa;:9002" vertex="1">
           <mxGeometry height="76" width="185" x="3225" y="-406" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ai-ocr-consumer&#xa;:21180" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-29" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="ai-ocr-consumer&#xa;:21180" vertex="1">
           <mxGeometry height="54" width="238" x="2409.5" y="1009" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-30" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ai-quality-consumer&#xa;:21190" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-30" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="ai-quality-consumer&#xa;:21190" vertex="1">
           <mxGeometry height="78" width="260" x="2743.5" y="997" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-31" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="ai-face-consumer&#xa;:21172" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-31" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="ai-face-consumer&#xa;:21172" vertex="1">
           <mxGeometry height="54" width="247" x="3049.5" y="1009" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="export-consumer&#xa;:21183" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-32" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="export-consumer&#xa;:21183" vertex="1">
           <mxGeometry height="54" width="244" x="3692.5" y="1009" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="file-cleanup-consumer&#xa;:21210" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-33" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="file-cleanup-consumer&#xa;:21210" vertex="1">
           <mxGeometry height="78" width="260" x="3382.5" y="997" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="OCR Service" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-34" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="OCR Service" vertex="1">
           <mxGeometry height="54" width="146" x="3453" y="694" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-35" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Quality Analysis Service" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-35" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="Quality Analysis Service" vertex="1">
           <mxGeometry height="54" width="229" x="3174" y="694" as="geometry" />
         </mxCell>
-        <mxCell id="-tRJzbTMZAdSkBsOnTmU-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;" value="Face Recognition Service" vertex="1">
+        <mxCell id="-tRJzbTMZAdSkBsOnTmU-36" parent="1" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" value="Face Recognition Service" vertex="1">
           <mxGeometry height="54" width="238" x="2889" y="694" as="geometry" />
         </mxCell>
         <mxCell id="-tRJzbTMZAdSkBsOnTmU-37" parent="1" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" value="PostgreSQL&#xa;Prisma ORM" vertex="1">
